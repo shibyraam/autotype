@@ -1,2 +1,3 @@
 # autotype
-same name or num how many times typing on (notepad, excel, winword...)
+    - same name or num how many times typing on (notepad, excel, winword...)
+    - input some variable then repeated type the variable
