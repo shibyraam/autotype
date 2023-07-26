@@ -1,3 +1,5 @@
+# I need repeatly typed some items
+# so i am write this script
 # path = F:\autotype\autotype.py
 # pip install keyboard
 import keyboard as kb
