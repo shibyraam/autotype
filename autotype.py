@@ -1,4 +1,4 @@
-# I need repeatly typed some items
+# I need repeatly typed some text, numbers, etc...
 # so i am write this scripts
 # path = F:\autotype\autotype.py
 # pip install keyboard
